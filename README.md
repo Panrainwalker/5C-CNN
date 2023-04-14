@@ -1,4 +1,4 @@
-# detection-of-MS-event
+# 5C-CNN
 基于CNN的微地震事件检测
 
 在main中有python的代码
